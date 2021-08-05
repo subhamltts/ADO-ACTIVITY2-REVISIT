@@ -32,14 +32,14 @@ namespace Activity2ADO
                 Console.WriteLine("ERROR 404!!!!");
             }
 
-            Console.WriteLine("******************* Table Valued *****************");
-            facultyDALobj tbobj = new facultyDALobj()();
-            
-            int c = Convert.ToInt32(Console.ReadLine());
-            string d = Console.ReadLine();
-            string e = Console.ReadLine();
-            tbobj.facultyDALobj( c, d, e);
-
+          var result = facultyBLObj.FetchFacultyList();
+                foreach(var item in result)
+                {
+                    Console.WriteLine(item.Ps + "||" + item.FacultyName + "||" + item.FacultyEmail);
+                }
+                string ReturnVal = facultyBLObj.FetchFacultyNameWithID(ps);
+                Console.WriteLine(ReturnVal);
+             }
             Console.ReadKey();
         }
     }
