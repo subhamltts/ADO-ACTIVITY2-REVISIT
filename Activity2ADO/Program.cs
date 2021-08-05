@@ -37,8 +37,8 @@ namespace Activity2ADO
                 {
                     Console.WriteLine(item.Ps + "||" + item.FacultyName + "||" + item.FacultyEmail);
                 }
-                string ReturnVal = facultyBLObj.FetchFacultyNameWithID(ps);
-                Console.WriteLine(ReturnVal);
+                string Val = facultyBLObj.FetchFacultyNameWithID(ps);
+                Console.WriteLine(Val);
              }
             Console.ReadKey();
         }
