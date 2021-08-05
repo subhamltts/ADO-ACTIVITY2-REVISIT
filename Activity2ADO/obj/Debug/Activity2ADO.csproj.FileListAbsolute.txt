@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\bin\Debug\Activity2ADO.exe.config
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\bin\Debug\Activity2ADO.exe
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\bin\Debug\Activity2ADO.pdb
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\bin\Debug\Activity2ADOBL.dll
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\bin\Debug\Activity2ADODAL.dll
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\bin\Debug\Activity2ADOBL.pdb
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\bin\Debug\Activity2ADODAL.pdb
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\obj\Debug\Activity2ADO.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\obj\Debug\Activity2ADO.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\obj\Debug\Activity2ADO.csproj.CopyComplete
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\obj\Debug\Activity2ADO.exe
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADO\obj\Debug\Activity2ADO.pdb

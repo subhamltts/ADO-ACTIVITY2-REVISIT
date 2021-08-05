@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADODTO\bin\Debug\Activity2ADODTO.dll
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADODTO\bin\Debug\Activity2ADODTO.pdb
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADODTO\obj\Debug\Activity2ADODTO.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADODTO\obj\Debug\Activity2ADODTO.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADODTO\obj\Debug\Activity2ADODTO.dll
+C:\Users\Hp\source\repos\Activity2ADO\Activity2ADODTO\obj\Debug\Activity2ADODTO.pdb
